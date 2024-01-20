@@ -1,1 +1,0 @@
-# slack_react_clone
